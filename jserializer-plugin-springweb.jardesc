@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="jserializer-plugin-springweb/output/jserializer-plugin-springweb.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/jserializer-plugin-springweb/jserializer-plugin-springweb.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="true" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <folder path="/jserializer-plugin-springweb/output"/>
+        <file path="/jserializer-plugin-springweb/.gitignore"/>
+        <folder path="/jserializer-plugin-springweb/target"/>
+        <file path="/jserializer-plugin-springweb/.project"/>
+        <file path="/jserializer-plugin-springweb/README.md"/>
+        <file path="/jserializer-plugin-springweb/pom.xml"/>
+        <folder path="/jserializer-plugin-springweb/bin"/>
+        <javaElement handleIdentifier="=jserializer-plugin-springweb/src"/>
+        <file path="/jserializer-plugin-springweb/.classpath"/>
+    </selectedElements>
+</jardesc>
